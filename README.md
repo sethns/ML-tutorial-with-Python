@@ -10,4 +10,5 @@ Machine Learning Tutorial for Beginners. Performed the following data cleaning o
 7. Encoding the Categorical Variables
 8. Splitting the data into training and test set
 9. Pipelining the entire work flow
+10.Model Evaluation for Classification Problem set
 
