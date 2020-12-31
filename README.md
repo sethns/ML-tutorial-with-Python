@@ -1,4 +1,4 @@
-# ML-tutorial-with-Python
+# Machine Learning Tutorial with Python
 
 Machine Learning Tutorial for Beginners. Performed the following data cleaning operations required to do before building a machine learning model on Melbourne_housing dataset:
 1. Importing libraries
