@@ -6,6 +6,8 @@ Machine Learning Tutorial for Beginners. Performed the following data cleaning o
 3. Missing Values detection and treatment
 4. Outliers detection and treatment
 5. Transformation of Variables
-6. Encoding the Categorical Data
-7. Split the data into training and test set
-8. Feature scaling
+6. Scaling the Numerical Variables
+7. Encoding the Categorical Variables
+8. Splitting the data into training and test set
+9. Pipelining the entire work flow
+
